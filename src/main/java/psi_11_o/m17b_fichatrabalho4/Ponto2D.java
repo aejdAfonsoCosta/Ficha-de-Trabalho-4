@@ -1,6 +1,9 @@
 package psi_11_o.m17b_fichatrabalho4;
 
-
+/**
+ * 
+ * @author Afonso Costa
+ */
 
 public class Ponto2D {
     private int x;
